@@ -1,3 +1,7 @@
 
---Plasma Implementation
+-- First(?) Plasma Implementation
 https://github.com/BankEx/PlasmaETHexchange
+
+--Crypto Kitties Bounty Repo
+https://github.com/axiomzen/cryptokitties-bounty
+
