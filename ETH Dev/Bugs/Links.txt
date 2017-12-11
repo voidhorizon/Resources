@@ -1,1 +1,5 @@
+--The DAO breakdown
 http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/
+
+--Parity: On Classes of Stuck Ether and Potential Solutions
+https://paritytech.io/blog/on-classes-of-stuck-ether-and-potential-solutions-2.html
