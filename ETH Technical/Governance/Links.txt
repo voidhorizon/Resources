@@ -1,1 +1,5 @@
+--Vlad Zamfir
 https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca
+
+--Nick Johnson
+https://medium.com/@weka/on-paritys-proposed-changes-to-selfdestruct-behaviour-c3f0e5bc0f49
