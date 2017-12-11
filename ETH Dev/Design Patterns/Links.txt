@@ -1,6 +1,26 @@
 --Solidity Design Pattern Collection
 https://github.com/bkrem/awesome-solidity
 
+
+
+--Tutorials | Solidity 1: The Five Types Model
+https://monax.io/docs/tutorials/solidity/solidity_1_the_five_types_model/
+
+
 --Article on upgrading smart contracts on chain
 https://vomtom.at/upgrade-smart-contracts-on-chain/
 
+    --Zeplin and Aragon : Proxy Libraries in Solidity
+    https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd
+
+    --Ether-router
+    https://github.com/ownage-ltd/ether-router
+
+    --"Eternal Storage" : Colony , Elena Dimitrova
+    https://vomtom.at/upgrade-smart-contracts-on-chain/
+
+    --Rocket Pool
+    https://medium.com/rocket-pool/upgradable-solidity-contract-design-54789205276d
+     
+
+ 
