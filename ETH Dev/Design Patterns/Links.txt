@@ -1,1 +1,6 @@
+--Solidity Design Pattern Collection
 https://github.com/bkrem/awesome-solidity
+
+--Article on upgrading smart contracts on chain
+https://vomtom.at/upgrade-smart-contracts-on-chain/
+
