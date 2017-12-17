@@ -1,1 +1,11 @@
 https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html
+
+--Mathemagic
+[
+Mathemagic: Full Multiplication
+A lot of smart contracts use the SafeMath library. It prevents contracts from having incorrect results, but it does so by failing transactions instead of making them correct. Let’s instead try to do the math correctly. In this series, I will derive some advanced techniques. Today, I’ll make a better safeMul.
+...
+We use assembly to avoid an unnecessary branch. The total gas cost is about 60 gas, compared to 5 for a normal multiply and 90 for a standard safeMul. In fact, it is slightly cheaper to use mul512 and check that r1 is zero than it is to use safeMul!
+]
+
+https://medium.com/wicketh/mathemagic-full-multiply-27650fec525d
