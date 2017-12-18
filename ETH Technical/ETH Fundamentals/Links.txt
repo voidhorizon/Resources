@@ -1,3 +1,9 @@
 
 --Setting up private chain via Geth
 https://www.ethereum.org/cli
+
+--Notes on the EVM
+https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md
+
+--Diving into the EVM
+https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30
