@@ -22,5 +22,13 @@ https://vomtom.at/upgrade-smart-contracts-on-chain/
     --Rocket Pool
     https://medium.com/rocket-pool/upgradable-solidity-contract-design-54789205276d
      
+-Good patterns 
+https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-1-c33048d4d17d
+    -- Overflow and Underflow
+    -- Visibility and delegatecall
+    -- Re-entrancy
 
- 
+https://medium.com/loom-network/how-to-secure-your-smart-contracts-6-solidity-vulnerabilities-and-how-to-avoid-them-part-2-730db0aa4834
+    -- Forcing ether into a contract
+    -- Call to the Unknown
+    -- Short Address attack
